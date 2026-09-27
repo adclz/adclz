@@ -1,1 +1,7 @@
-![adclz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adclz&layout=donut&theme=radical)
+👋
+
+Rust engineer, industrial automation background.
+
+I build compilers and language toolings.
+
+Open to Rust roles, compilers, WebAssembly, developer tooling, embedded.
